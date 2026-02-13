@@ -1,4 +1,4 @@
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d5cb0427-b198-4fac-96d1-67153f6e843c" /># Привет! Это лабораторная работа №6 👋
+Привет! Это лабораторная работа №6 👋
 
 ## 👨‍🎓 Автор проекта
 Никита
