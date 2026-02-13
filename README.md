@@ -31,7 +31,7 @@
 
 ## 🖼 Картинка
 
-![Ьуь](https://ffclub.ru/topic/156686/jump_810/)
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0cf87df3-24c0-41e2-bb77-697186e9531c" />
 
 ---
 
